@@ -1,6 +1,10 @@
+---
+type: Journal
+---
+
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+1. Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your entries is useful before submitting.
